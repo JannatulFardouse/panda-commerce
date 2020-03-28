@@ -20,3 +20,25 @@
     padding: 9px 25px;
     cursor: pointer;
 }
+.cat1,.cat2,.cat3{
+    border-radius: 10px;
+    padding: 10px 30px;
+}
+.cat1{
+    background-image: linear-gradient(to left, rgb(247, 245, 136) 0%, rgb(255, 165, 0) 100%);
+    
+}
+.cat2{
+    background-image: linear-gradient(to left, rgb(247, 169, 222) 0%, rgb(252, 77, 173) 100%);
+    
+}
+.cat3{
+    background-image: linear-gradient(to left, rgb(220, 193, 248) 0%, rgb(194, 93, 248) 100%);
+    
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 100px;
+}
